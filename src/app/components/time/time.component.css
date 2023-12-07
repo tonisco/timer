@@ -1,0 +1,17 @@
+.time-container {
+  display: flex;
+  gap: 4px;
+  font-size: 14px;
+  align-items: center;
+}
+
+.time {
+  margin-bottom: 0px !important;
+  text-transform: uppercase;
+}
+
+.icon {
+  font-size: 16px;
+  width: auto;
+  height: auto;
+}
